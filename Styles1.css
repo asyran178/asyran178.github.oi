@@ -1,0 +1,31 @@
+@charset "utf-8";
+.container-fluid .container .text-left {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+.row .col-lg-6 h3 {
+    color: #FFFFFF;
+}
+.container-fluid .container .text-center {
+    color: #FFFFFF;
+}
+#accordion2 .card #headingOne2 {
+    background-color: #000000;
+}
+
+.row .col-lg-6 .text-center {
+    color: #FFD700;
+}
+#headingOne2 .mb-0.text-center a {
+    color: #FFD700;
+}
+#accordion3 .card #headingOne3 {
+    background-color: #000000;
+}
+#headingOne3 .mb-0.text-center a {
+    color: #FFD700;
+}
+.card.col-md-4.col-lg-12 .card-body .card-title.text-center {
+    color: #FFD700;
+    background-color: #000000;
+}

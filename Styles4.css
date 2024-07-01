@@ -1,0 +1,16 @@
+@charset "utf-8";
+.container contact iframe {
+    text-align: center;
+}
+.container-fluid .container .text-left {
+    color: #FFFFFF;
+}
+.container-fluid .container .text-center {
+    color: #FFFFFF;
+}
+.col-lg-4 ul li {
+    color: #FFFFFF;
+}
+.row .col-lg-6 .text-center {
+    color: #FFD700;
+}

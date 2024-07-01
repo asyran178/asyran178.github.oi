@@ -1,0 +1,41 @@
+@charset "utf-8";
+.col-lg-6 p img {
+    float: left;
+    -webkit-box-shadow: 0px 0px 100px;
+    box-shadow: 0px 0px 100px;
+}
+.card {
+	height: 330 px ;
+	overflow: hidden;
+	flex :1px ;
+	border-radius: 20px ;
+	cursor:pointer;
+	transition: 0.5s ;
+	flex-direction: column ;
+}
+.card:hover{
+	transform: scale(1.04)
+}
+.card-title { 
+	 background-color: yellow ;
+	text-align :center;
+	padding: 5px ;
+	
+	
+	
+}
+.container-fluid .container .text-left {
+    color: #FFFFFF;
+}
+.container-fluid .container .text-center {
+    color: #FFFFFF;
+}
+.col-lg-6 ul li {
+    color: #FFFFFF;
+}
+.container-fluid .container table {
+    background-color: #FFFFFF;
+}
+.row .col-lg-6 .text-center {
+    color: #FFD700;
+}
